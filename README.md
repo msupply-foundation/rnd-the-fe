@@ -31,4 +31,4 @@ If I (Andrei) was implementing it, I would go step by step, measure performance 
 * How to use AI for performance tests/evaluation
 * Design pattern <-> implementations (how to keep those in sync, leverage AI)
 * Plugins with vite
-
+* What packager to use ?
