@@ -30,4 +30,5 @@ If I (Andrei) was implementing it, I would go step by step, measure performance 
 * Lighter version of JSON forms
 * How to use AI for performance tests/evaluation
 * Design pattern <-> implementations (how to keep those in sync, leverage AI)
+* Plugins with vite
 
